@@ -1,0 +1,28 @@
+nome file;	KZ2-sawtooth17.max;;	KZ2-tsukuba13.max;;	KZ2-tsukuba9.max;;	KZ2-venus19.max;;	sampe.max;;	
+numero di nodi;	158462;;	106850;;	172132;;	158947;;	8;;	
+numero di archi;	316123;;	213037;;	457126;;	317092;;	8;;	
+dimensione del file (Kbytes);	13095;;	8511;;	18728;;	13137;;	1;;	
+dimensione del file (Mbytes);	12.788086;;	8.311523;;	18.289062;;	12.829102;;	0.000977;;	
+[descrizione del dataset]
+ALGORITMO;Tempi di esecuzione (ms); Tempi di esecuzione (s);Tempi di esecuzione (ms); Tempi di esecuzione (s);Tempi di esecuzione (ms); Tempi di esecuzione (s);Tempi di esecuzione (ms); Tempi di esecuzione (s);Tempi di esecuzione (ms); Tempi di esecuzione (s);
+Dinic;	63;	0.063000;	28;	0.028000;	299;	0.299000;	51;	0.051000;	0;	0.000000;	
+Push_Relabel_FIFO;	38;	0.038000;	15;	0.015000;	94;	0.094000;	33;	0.033000;	0;	0.000000;	
+Push_Relabel_Highest;	19;	0.019000;	11;	0.011000;	57;	0.057000;	20;	0.020000;	0;	0.000000;	
+Ahuja_Orlin;	76;	0.076000;	34;	0.034000;	150;	0.150000;	78;	0.078000;	0;	0.000000;	
+Push_Relabel_Parallel_2_Processes;	52;	0.052000;	31;	0.031000;	130;	0.130000;	55;	0.055000;	0;	0.000000;	
+Push_Relabel_Segment_Parallel_2_processes;	39;	0.039000;	19;	0.019000;	134;	0.134000;	35;	0.035000;	0;	0.000000;	
+Ahuja_Orlin_Parallel_2_processes;	151;	0.151000;	80;	0.080000;	236;	0.236000;	133;	0.133000;	0;	0.000000;	
+Push_Relabel_Parallel_4_Processes;	41;	0.041000;	27;	0.027000;	128;	0.128000;	43;	0.043000;	0;	0.000000;	
+Push_Relabel_Segment_Parallel_4_processes;	48;	0.048000;	22;	0.022000;	101;	0.101000;	50;	0.050000;	0;	0.000000;	
+Ahuja_Orlin_Parallel_4_processes;	162;	0.162000;	75;	0.075000;	223;	0.223000;	149;	0.149000;	0;	0.000000;	
+Push_Relabel_Parallel_8_Processes;	46;	0.046000;	26;	0.026000;	214;	0.214000;	38;	0.038000;	151;	0.151000;	
+Push_Relabel_Segment_Parallel_8_processes;	178;	0.178000;	26;	0.026000;	115;	0.115000;	43;	0.043000;	0;	0.000000;	
+Ahuja_Orlin_Parallel_8_processes;	181;	0.181000;	84;	0.084000;	444;	0.444000;	214;	0.214000;	10;	0.010000;	
+Push_Relabel_Parallel_16_Processes;	100;	0.100000;	120;	0.120000;	258;	0.258000;	108;	0.108000;	2;	0.002000;	
+Push_Relabel_Segment_Parallel_16_processes;	80;	0.080000;	30;	0.030000;	155;	0.155000;	56;	0.056000;	1;	0.001000;	
+Ahuja_Orlin_Parallel_16_processes;	183;	0.183000;	107;	0.107000;	293;	0.293000;	207;	0.207000;	0;	0.000000;	
+Hochbaum_highest_label_fifo;	31;	0.031000;	16;	0.016000;	78;	0.078000;	31;	0.031000;	0;	0.000000;	
+Hochbaum_highest_label_lifo;	16;	0.016000;	16;	0.016000;	47;	0.047000;	31;	0.031000;	0;	0.000000;	
+Hochbaum__lowest_label_fifo;	62;	0.062000;	31;	0.031000;	125;	0.125000;	47;	0.047000;	0;	0.000000;	
+Hochbaum__lowest_label_lifo;	47;	0.047000;	31;	0.031000;	78;	0.078000;	31;	0.031000;	0;	0.000000;	
+boykov_kolmogorov;	11;	0.011000;	6;	0.006000;	51;	0.051000;	10;	0.010000;	0;	0.000000;	
