@@ -1,0 +1,28 @@
+nome file;	BL06-camel-lrg.max;;	BL06-camel-med.max;;	BL06-camel-sml.max;;	
+numero di nodi;	18900002;;	9676802;;	1209602;;	
+numero di archi;	37696500;;	19287360;;	2402640;;	
+dimensione del file (Kbytes);	2093648;;	1024310;;	118096;;	
+dimensione del file (Mbytes);	2044.578125;;	1000.302734;;	115.328125;;	
+[descrizione del dataset]
+ALGORITMO;Tempi di esecuzione (ms); Tempi di esecuzione (s);Tempi di esecuzione (ms); Tempi di esecuzione (s);Tempi di esecuzione (ms); Tempi di esecuzione (s);
+Dinic;	718158;	718.158000;	250607;	250.607000;	10360;	10.360000;	
+Push_Relabel_FIFO;	205304;	205.304000;	72871;	72.871000;	3866;	3.866000;	
+Push_Relabel_Highest;	152199;	152.199000;	65321;	65.321000;	2617;	2.617000;	
+Ahuja_Orlin;	160168;	160.168000;	71509;	71.509000;	3269;	3.269000;	
+Push_Relabel_Parallel_2_Processes;	241603;	241.603000;	92520;	92.520000;	5945;	5.945000;	
+Push_Relabel_Segment_Parallel_2_processes;	77773;	77.773000;	27734;	27.734000;	1686;	1.686000;	
+Ahuja_Orlin_Parallel_2_processes;	128907;	128.907000;	62023;	62.023000;	3677;	3.677000;	
+Push_Relabel_Parallel_4_Processes;	121815;	121.815000;	47451;	47.451000;	4204;	4.204000;	
+Push_Relabel_Segment_Parallel_4_processes;	31761;	31.761000;	13587;	13.587000;	1315;	1.315000;	
+Ahuja_Orlin_Parallel_4_processes;	106835;	106.835000;	49000;	49.000000;	3251;	3.251000;	
+Push_Relabel_Parallel_8_Processes;	72325;	72.325000;	28025;	28.025000;	3661;	3.661000;	
+Push_Relabel_Segment_Parallel_8_processes;	23910;	23.910000;	11953;	11.953000;	1090;	1.090000;	
+Ahuja_Orlin_Parallel_8_processes;	94182;	94.182000;	40712;	40.712000;	2806;	2.806000;	
+Push_Relabel_Parallel_16_Processes;	112798;	112.798000;	65431;	65.431000;	77635;	77.635000;	
+Push_Relabel_Segment_Parallel_16_processes;	42556;	42.556000;	21520;	21.520000;	1560;	1.560000;	
+Ahuja_Orlin_Parallel_16_processes;	114469;	114.469000;	47933;	47.933000;	3702;	3.702000;	
+Hochbaum_highest_label_fifo;	58156;	58.156000;	23476;	23.476000;	1172;	1.172000;	
+Hochbaum_highest_label_lifo;	61296;	61.296000;	22908;	22.908000;	1048;	1.048000;	
+Hochbaum__lowest_label_fifo;	106768;	106.768000;	39364;	39.364000;	2040;	2.040000;	
+Hochbaum__lowest_label_lifo;	101364;	101.364000;	36060;	36.060000;	1352;	1.352000;	
+boykov_kolmogorov;	91326;	91.326000;	27808;	27.808000;	1007;	1.007000;	
